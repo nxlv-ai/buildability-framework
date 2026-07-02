@@ -255,3 +255,9 @@ certification, endorsement or audit.
 This repository discloses methodology for transparency and comparability. It
 does not expose private prompt chains, proprietary calibration weights or
 agent instructions.
+
+## Authorship and maintenance
+
+This project was created by [Lucio Amorim](https://linkedin.com/in/lucioamorim).
+
+When reusing, redistributing, or citing this work, keep the attribution credits and include a link to this repository.
